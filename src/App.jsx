@@ -1,5 +1,5 @@
 import './App.css';
-
+import {Search} from "./assets/search.svg";
 import { useEffect } from "react";
 //b87f0dfd
 const API_URL= 'http://www.omdbapi.com/apikey.aspx?VERIFYKEY=3df7a2b3-118b-4ddd-83df-521985adbaca'
